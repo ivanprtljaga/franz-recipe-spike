@@ -1,5 +1,7 @@
 # Franz recipe for SPIKE
 
+### This is a Work in Progress and the logos currently do not work.
+
 1. To install a new integration, download the integration folder.
 2. Open the Franz Plugins folder on your machine (note that this dev directory may not exist yet, and you must create it):
 - Mac: ~/Library/Application Support/Franz/recipes/dev/
