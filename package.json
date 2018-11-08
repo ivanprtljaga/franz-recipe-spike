@@ -1,0 +1,13 @@
+{
+  "id": "spike",
+  "name": "Spike",
+  "version": "1.0.0",
+  "description": "Spike",
+  "main": "index.js",
+  "author": "Ivan Prtljaga",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://spikenow.com/web/",
+    "hasNotificationSound": true
+  }
+}
